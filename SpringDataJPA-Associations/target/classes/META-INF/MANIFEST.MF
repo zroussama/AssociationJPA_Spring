@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: oh_zed
+Build-Jdk: 17.0.1
+Implementation-Title: SpringDataJPA-Associations
+Implementation-Version: 1.0
+Implementation-Vendor-Id: tn.esprit.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringDataJPA-Associations
+Created-By: Maven Integration for Eclipse
+

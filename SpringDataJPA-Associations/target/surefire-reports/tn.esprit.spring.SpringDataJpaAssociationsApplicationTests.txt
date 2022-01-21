@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: tn.esprit.spring.SpringDataJpaAssociationsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.038 s <<< FAILURE! - in tn.esprit.spring.SpringDataJpaAssociationsApplicationTests
+initializationError(tn.esprit.spring.SpringDataJpaAssociationsApplicationTests)  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.Exception: The class tn.esprit.spring.SpringDataJpaAssociationsApplicationTests is not public.
+
+initializationError(tn.esprit.spring.SpringDataJpaAssociationsApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Test class should have exactly one public constructor
+
+initializationError(tn.esprit.spring.SpringDataJpaAssociationsApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method contextLoads() should be public
+

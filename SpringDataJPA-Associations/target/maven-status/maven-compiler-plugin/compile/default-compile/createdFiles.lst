@@ -1,0 +1,6 @@
+tn\esprit\spring\entity\ManyToManyBidirectionnelle\Formation.class
+tn\esprit\spring\SpringDataJpaAssociationsApplication.class
+tn\esprit\spring\entity\ManyToManyBidirectionnelle\TravauxPratiques.class
+tn\esprit\spring\entity\OneToOneBidirectionnelle\Formation.class
+tn\esprit\spring\entity\OneToOneBidirectionnelle\FormationDetail.class
+tn\esprit\spring\entity\OneToOneUnidirectionnelle\FormationDetail.class
